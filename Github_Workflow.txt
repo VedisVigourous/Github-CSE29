@@ -1,2 +1,10 @@
 1. Initialized git in a local dir using : "git init"
 2. Staging files using : "git add"
+3. Committing file to local repo using : " git commit -m "****" "
+
+Important Stage 4: 
+
+And downloading is done to local repo by: git remote add origin <link>
+
+# Pull: Downloads new commit and merges into local branch
+# Fetch: Downlaod new commits without merging
