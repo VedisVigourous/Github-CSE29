@@ -8,3 +8,5 @@ And downloading is done to local repo by: git remote add origin <link>
 
 # Pull: Downloads new commit and merges into local branch
 # Fetch: Downlaod new commits without merging
+
+# Renaming File using : git branch -M <new_name>
