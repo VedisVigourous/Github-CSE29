@@ -1,0 +1,2 @@
+1. Initialized git in a local dir using : "git init"
+2. Staging files using : "git add"
