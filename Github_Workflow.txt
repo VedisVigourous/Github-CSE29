@@ -1,3 +1,9 @@
+Stages of Github: 
+1. Working Area
+2. Staging Area
+3. Local repo
+4. Remote Repo connection
+
 1. Initialized git in a local dir using : "git init"
 2. Staging files using : "git add"
 3. Committing file to local repo using : " git commit -m "****" "
@@ -10,3 +16,4 @@ And downloading is done to local repo by: git remote add origin <link>
 # Fetch: Downlaod new commits without merging
 
 # Renaming File using : git branch -M <new_name>
+
