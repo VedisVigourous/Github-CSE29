@@ -18,3 +18,6 @@ And downloading is done to local repo by: git remote add origin <link>
 
 # Renaming File using : git branch -M <new_name>
 
+# To just use git push we have to set upstream branch i.e.
+Syntax: git push --set-upstream origin main
+
